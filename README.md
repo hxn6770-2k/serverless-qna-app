@@ -1,20 +1,6 @@
-
-```markdown
 ## 🧩 Serverless Q&A Platform – Angular + AWS Lambda + API Gateway
 
 This is a full-stack serverless Questions & Answers web application built using Angular (frontend) and AWS Lambda with API Gateway (backend). The backend is stateless, scalable, and integrated via REST APIs. Frontend is a Single Page Application (SPA) hosted on Amazon S3.
-
----
-
-## 📁 Project Structure
-
-```
-
-/client                # Angular frontend
-/lambdas               # Node.js Lambda functions (API logic)
-/README.md             # Project documentation
-
-````
 
 ---
 
